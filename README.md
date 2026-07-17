@@ -68,7 +68,6 @@ Feel free to create your own custom gem using our gem details! You can see the f
 ---
 
 <div align="center">
-  <img src="public/the-time-machine-tech-logo.svg" alt="The Time Machine Tech" width="40" height="40" style="margin-bottom: 10px;" />
   <p>Created by <a href="https://www.youtube.com/@TheTimeMachineTech"><strong>The Time Machine Tech</strong></a> | TTMT CC Custom Gems</p>
   <p>
     <a href="https://www.youtube.com/@TheTimeMachineTech">YouTube</a> • 
