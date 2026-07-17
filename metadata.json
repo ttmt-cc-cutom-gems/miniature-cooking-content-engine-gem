@@ -1,0 +1,6 @@
+{
+  "name": "Miniature Cooking Content Engine",
+  "description": "Landing page for the Miniature Cooking Content Engine Gemini Gem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
